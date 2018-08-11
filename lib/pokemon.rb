@@ -11,7 +11,7 @@ class Pokemon
     @@all << self
   end
 
-  def self.save(id, name, type, db)
+  def self.save(id, name, type)
 
   end
 end
