@@ -12,6 +12,6 @@ class Pokemon
   end
 
   def self.save(id, name, type, db)
-    
+
   end
 end
